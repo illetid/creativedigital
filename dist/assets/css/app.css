@@ -4155,7 +4155,7 @@ a.button:hover, button:hover {
   color: #665f60; }
 
 .ba-about-container-left {
-  background: url(assets/img/bg-about-us.jpg) 50% no-repeat;
+  background: url(../img/bg-about-us.jpg) 50% no-repeat;
   background-size: cover;
   color: #FFF;
   position: relative; }
@@ -4167,7 +4167,7 @@ a.button:hover, button:hover {
   padding-bottom: 345px;
   font-size: 36px;
   text-align: center;
-  background: url(assets/img/icon=about-us.png) 50% 72px no-repeat; }
+  background: url(../img/icon=about-us.png) 50% 72px no-repeat; }
 
 .ba-about-container-left:before {
   position: absolute;
@@ -4222,23 +4222,23 @@ a.button:hover, button:hover {
   padding-top: 185px; }
 
 .ba-service__title--graphic {
-  background: url(assets/img/icon-graphic.png) 50% 95px no-repeat; }
+  background: url(../img/icon-graphic.png) 50% 95px no-repeat; }
 
 .ba-service__title--web {
-  background: url(assets/img/icon-web.png) 50% 95px no-repeat; }
+  background: url(../img/icon-web.png) 50% 95px no-repeat; }
 
 .ba-service__title--seo {
-  background: url(assets/img/icon-seo.png) 50% 95px no-repeat; }
+  background: url(../img/icon-seo.png) 50% 95px no-repeat; }
 
 .ba-service__title--mobile {
-  background: url(assets/img/icon-mobile.png) 50% 95px no-repeat; }
+  background: url(../img/icon-mobile.png) 50% 95px no-repeat; }
 
 .ba-service p {
   padding-bottom: 125px; }
 
 .ba-services-title {
   position: relative;
-  background: url(assets/img/bg-services.jpg) 50% no-repeat;
+  background: url(../img/bg-services.jpg) 50% no-repeat;
   background-size: cover;
   z-index: 1;
   text-align: center;
@@ -4260,7 +4260,7 @@ a.button:hover, button:hover {
   position: relative;
   font-size: 35px;
   padding-top: 195px;
-  background: url(assets/img/icon-services.png) 50% 110px no-repeat;
+  background: url(../img/icon-services.png) 50% 110px no-repeat;
   padding-bottom: 100px; }
 
 .ba-services-title .ba-services-title__text {
@@ -4276,7 +4276,7 @@ a.button:hover, button:hover {
   margin-bottom: 0; }
 
 .ba-works {
-  background: url(assets/img/works-bg.jpg) 50% no-repeat;
+  background: url(../img/works-bg.jpg) 50% no-repeat;
   background-size: cover;
   position: relative;
   z-index: 1;
@@ -4296,7 +4296,7 @@ a.button:hover, button:hover {
 .ba-works__title {
   position: relative;
   padding-top: 140px;
-  background: url(assets/img/icon-works.png) 50% 47px no-repeat;
+  background: url(../img/icon-works.png) 50% 47px no-repeat;
   padding-bottom: 65px; }
 
 .ba-works-slider {
@@ -4350,7 +4350,7 @@ a.button:hover, button:hover {
 
 .ba-team__title {
   padding-top: 140px;
-  background: url(assets/img/icon-team.png) 50% 53px no-repeat;
+  background: url(../img/icon-team.png) 50% 53px no-repeat;
   margin-bottom: 57px;
   color: #665f60;
   font-size: 36px; }
@@ -4446,7 +4446,7 @@ a.button:hover, button:hover {
   .ba-contact-content__title {
     color: #FFF;
     padding-top: 90px;
-    background: url(assets/img/map-pin.png) 50% 0 no-repeat; }
+    background: url(../img/map-pin.png) 50% 0 no-repeat; }
 
 .ba-contact-form {
   padding: 260px 125px 0; }

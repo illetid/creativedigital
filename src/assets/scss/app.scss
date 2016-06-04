@@ -136,7 +136,7 @@ font-family: 'Proxima-Nova-Bold', sans-serif;
 	color: $medium-gray;
 }
 .ba-about-container-left {
-	background: url(assets/img/bg-about-us.jpg) 50% no-repeat;
+	background: url(../img/bg-about-us.jpg) 50% no-repeat;
 	background-size: cover;
 	color: #FFF;
 	position: relative;
@@ -148,7 +148,7 @@ font-family: 'Proxima-Nova-Bold', sans-serif;
 	padding-bottom: 345px;
 	font-size: 36px;
 	text-align: center;
-	background: url(assets/img/icon=about-us.png) 50% 72px no-repeat;
+	background: url(../img/icon=about-us.png) 50% 72px no-repeat;
 
 }
 .ba-about-container-left:before {
@@ -209,16 +209,16 @@ background: rgba(159,154,207,.5);
 
 }
 .ba-service__title--graphic {
-	background: url(assets/img/icon-graphic.png) 50% 95px no-repeat;
+	background: url(../img/icon-graphic.png) 50% 95px no-repeat;
 }
 .ba-service__title--web {
-	background: url(assets/img/icon-web.png) 50% 95px no-repeat;
+	background: url(../img/icon-web.png) 50% 95px no-repeat;
 }
 .ba-service__title--seo {
-	background: url(assets/img/icon-seo.png) 50% 95px no-repeat;
+	background: url(../img/icon-seo.png) 50% 95px no-repeat;
 }
 .ba-service__title--mobile {
-		background: url(assets/img/icon-mobile.png) 50% 95px no-repeat;
+		background: url(../img/icon-mobile.png) 50% 95px no-repeat;
 }
 .ba-service p {
 	padding-bottom: 125px;
@@ -230,7 +230,7 @@ background: rgba(159,154,207,.5);
 .ba-services-title {
 
 	position: relative;
-	background: url(assets/img/bg-services.jpg) 50% no-repeat;
+	background: url(../img/bg-services.jpg) 50% no-repeat;
 	background-size: cover;
 	z-index: 1;
 	text-align: center;
@@ -252,7 +252,7 @@ background: rgba(159,154,207,.4);
 	position: relative;
 	font-size: 35px;
 	padding-top: 195px;
-	background: url(assets/img/icon-services.png) 50% 110px no-repeat;
+	background: url(../img/icon-services.png) 50% 110px no-repeat;
 	padding-bottom: 100px;
 }
 .ba-services-title  .ba-services-title__text {
@@ -269,7 +269,7 @@ background: rgba(159,154,207,.4);
 	margin-bottom: 0;
 }
 .ba-works {
-	background: url(assets/img/works-bg.jpg) 50% no-repeat;
+	background: url(../img/works-bg.jpg) 50% no-repeat;
 	background-size: cover;
 	position: relative;
 	z-index: 1;
@@ -289,7 +289,7 @@ background: rgba(159,154,207,.8);
 .ba-works__title {
 	position: relative;
 	padding-top: 140px;
-	background: url(assets/img/icon-works.png) 50% 47px no-repeat;
+	background: url(../img/icon-works.png) 50% 47px no-repeat;
 	padding-bottom: 65px;
 }
 .ba-works-slider {
@@ -353,7 +353,7 @@ background: rgba(159,154,207,.8);
 }
 .ba-team__title {
 	padding-top: 140px;
-	background: url(assets/img/icon-team.png) 50% 53px no-repeat;
+	background: url(../img/icon-team.png) 50% 53px no-repeat;
 	margin-bottom: 57px;
 	color: $medium-gray;
 	font-size: 36px;
@@ -402,7 +402,7 @@ position: relative;
  &:last-child {
   margin-right: 0;
  }
- // padding-top: 195px;
+
  &__info {
   background: #FFF;
   padding-top: 160px;
@@ -502,7 +502,7 @@ position: relative;
  &__title {
   color: #FFF;
   padding-top: 90px;
-  background: url(assets/img/map-pin.png) 50% 0 no-repeat;
+  background: url(../img/map-pin.png) 50% 0 no-repeat;
  }
 }
 .ba-contact-form {
